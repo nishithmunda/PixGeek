@@ -2,10 +2,10 @@ export const homeObjOne={
     lightBg:false,
     lightText:true,
     lightTextDesc:true,
-    topLine:'TOPGUN',
-    headline:'HEADLINE',
-    description:'DESCRIPTION',
-    buttonLabel:'GET STARTED',
+    // topLine:'TOPGUN',
+    headline:'ENTER OUR WORLD',
+    // description:'DESCRIPTION',
+    buttonLabel:'GUIDE',
     imgStart:'',
     img:'images/lens.jpg',
     alt:'ALTERNATIVE'
@@ -14,24 +14,24 @@ export const homeObjTwo={
     lightBg:true,
     lightText:false,
     lightTextDesc:false,
-    topLine:'TOPLINE',
+    // topLine:'TOPLINE',
     headline:'CHOOSE YOUR WAND',
     description:'SELECT CAMERA AND LENS',
-    buttonLabel:'BUTTON',
+    buttonLabel:'BUY NOW',
     imgStart:'start',
-    img:'images/sex.png',
+    img:'images/dims.jpg',
     alt:'ALTERNATIVE'
 };
 export const homeObjThree={
     lightBg:true,
     lightText:false,
     lightTextDesc:false,
-    topLine:'TOPLINE',
-    headline:'HEADLINE',
-    description:'DESCRIPTION',
+    // topLine:'TOPLINE',
+    headline:'PHOTOGRAPH OF THE WEEK',
+    // description:'DESCRIPTION',
     buttonLabel:'BUTTON',
     imgStart:'',
-    img:'images/sex.png',
+    img:'images/imgbin_miggo-agua-45-stormproof-holster-for-large-dslr-cameras-messenger-bags-digital-slr-backpack-png.png',
     alt:'ALTERNATIVE'
 };
 export const homeObjFour={
